@@ -1,5 +1,4 @@
 # BaiKiemTra16112023
-BaiKiemTra16112023
 Nguyễn Duy Nam
 21810310486
 D16 CNPM4
